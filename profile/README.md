@@ -6,6 +6,19 @@ Bem-vindo ao **EduPrime.Chat**, uma solução **open-source** que está revoluci
 
 Muitas escolas públicas enfrentam desafios com **gestão ineficiente**, falta de digitalização e professores sobrecarregados com tarefas administrativas. Essas dificuldades afetam diretamente a qualidade do ensino e o desempenho dos alunos. O **EduPrime.Chat** surge como a solução que **democratiza o acesso à tecnologia educacional**, automatizando processos e melhorando a qualidade do trabalho dos professores.
 
+## 📄 Pitch do EduPrime
+
+Quer saber mais sobre o EduPrime? Baixe o nosso pitch agora e descubra como podemos transformar a educação!
+
+[🚀 Baixar o Pitch do EduPrime](eduprime.chat.pdf)
+
+## 🎥 Assista ao Pitch do EduPrime
+
+Quer ver o EduPrime em ação? Assista ao nosso pitch no YouTube e descubra nossas inovações!
+
+[▶️ Assista ao Pitch do EduPrime no YouTube](https://www.youtube.com/watch?v=Sxc3oBB-61Q)
+
+
 ## A Solução: EduPrime.Chat
 
 ### Tecnologia Simples, Impacto Imenso
